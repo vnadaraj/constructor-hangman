@@ -1,5 +1,5 @@
 # constructor-hangman
-Constructor Hangman Homework #10 - Advanced JavaScript
+Constructor Hangman Homework #9 - Advanced JavaScript
 
 # Advanced JavaScript Assignment: Constructor Hangman
 
